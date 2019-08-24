@@ -9,3 +9,4 @@ yes or no
 
 for i in range()
 print()
+good yes
